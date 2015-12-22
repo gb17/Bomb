@@ -48,6 +48,7 @@ public class Configure extends Activity {
     final String FILEPICKER = "5";
     final String TOGGLE = "6";
     final String CHKBOX = "7";
+    final String TEXTVIEW = "8";
 
 
     @Override
